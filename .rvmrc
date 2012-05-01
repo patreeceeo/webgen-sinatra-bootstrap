@@ -1,0 +1,3 @@
+rvm use --create 1.9.2@seans-site-webgen
+gem install bundler
+bundle
