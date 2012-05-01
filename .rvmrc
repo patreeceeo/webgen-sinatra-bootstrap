@@ -1,3 +1,3 @@
-rvm use --create 1.9.2@seans-site-webgen
+rvm use --create 1.9.2@webgen-sinatra-bootstrap
 gem install bundler
 bundle
